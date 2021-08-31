@@ -9,6 +9,7 @@
         "tamasfe.even-better-toml",
         "cismonx.texinfo",
         "foxundermoon.shell-format",
-        "bierner.jsdoc-markdown-highlighting"
+        "bierner.jsdoc-markdown-highlighting",
+        "aleksandardev.vscode-sequence-diagrams"
     ]
 }
