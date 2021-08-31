@@ -1,0 +1,3 @@
+.vscode/*.json linguist-language=jsonc
+*.json linguist-language=jsonc
+*.json eol=lf
