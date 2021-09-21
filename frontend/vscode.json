@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "mikestead.dotenv",
+        "me-dutour-mathieu.vscode-github-actions",
+        "christian-kohler.path-intellisense",
+        "bradlc.vscode-tailwindcss",
+        "redhat.vscode-yaml",
+        "tamasfe.even-better-toml",
+       "zignd.html-css-class-completion",
+        "pranaygp.vscode-css-peek",
+        "ecmel.vscode-html-css"
+    ]
+}
