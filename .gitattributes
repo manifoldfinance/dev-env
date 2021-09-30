@@ -1,3 +1,4 @@
 .vscode/*.json linguist-language=jsonc
 *.json linguist-language=jsonc
 *.json eol=lf
+Brewfile linguist-generated=true
