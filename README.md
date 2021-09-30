@@ -1,6 +1,10 @@
 # vscode-recommendations
 Visual Studio Code Workspace Recommendations
 
+## PM
+
+[Obsidian](https://obsidian.md/)
+
 ## GitHub Utilities
 
 ```sh
