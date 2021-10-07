@@ -1,6 +1,12 @@
 # vscode-recommendations
 Visual Studio Code Workspace Recommendations
 
+## IDE 
+
+
+
+[https://open-vsx.org/extension/contractshark/solidity-lang]
+
 ## PM
 
 [Obsidian](https://obsidian.md/)
