@@ -11,7 +11,8 @@
         "foxundermoon.shell-format",
         "bierner.jsdoc-markdown-highlighting",
         "sourcegraph.sourcegraph",
-        "mads-hartmann.bash-ide-vscode"
-
+        "mads-hartmann.bash-ide-vscode",
+        "redhat.vscode-quarkus",
+        "dendron.dendron"
     ]
 }
