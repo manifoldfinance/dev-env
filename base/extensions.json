@@ -13,6 +13,7 @@
         "sourcegraph.sourcegraph",
         "mads-hartmann.bash-ide-vscode",
         "redhat.vscode-quarkus",
-        "dendron.dendron"
+        "dendron.dendron",
+         "metaseed.metago"
     ]
 }
