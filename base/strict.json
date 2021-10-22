@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "coenraads.bracket-pair-colorizer-2",
+        "metaseed.metago",
+        "mikestead.dotenv",
+        "me-dutour-mathieu.vscode-github-actions",
+        "christian-kohler.path-intellisense",
+        "bierner.jsdoc-markdown-highlighting",
+        "sourcegraph.sourcegraph"
+    ]
+}
