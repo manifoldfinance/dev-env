@@ -4,6 +4,7 @@
         "mikestead.dotenv",
         "me-dutour-mathieu.vscode-github-actions",
         "christian-kohler.path-intellisense",
+        "tchayen.markdown-links"
         "bradlc.vscode-tailwindcss",
         "redhat.vscode-yaml",
         "tamasfe.even-better-toml",
