@@ -5,6 +5,14 @@
     "extensions.autoUpdate": "onlyEnabledExtensions",
     "redhat.telemetry.enabled": false,
     "terminal.enableAppInsights": false,
+  "solidity.packageDefaultDependenciesContractsDirectory": "src",
+  "solidity.packageDefaultDependenciesDirectory": "lib",
+  "solidity.compileUsingRemoteVersion": "v0.8.10",
+  "search.exclude": { "lib": true },
+  "files.associations": {
+    ".dapprc": "shellscript",
+    ".gas-snapshot": "julia"
+  },
     "editor.suggestSelection": "first",
     "bracket-pair-colorizer-2.colors": [
         "Gold",
