@@ -1,0 +1,24 @@
+{
+    "editor.cursorSmoothCaretAnimation" : true,
+    "editor.cursorBlinking": "expand",
+    "editor.overviewRulerBorder": false,
+    "editor.showFoldingControls" :"mouseover",
+    "editor.renderWhitespace": "none",
+    "editor.fontFamily": "Input Mono, SFMono-UltraLight, SourceCodePro-Light, Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontWeight": "200",
+    "window.titleBarStyle":"custom",
+    "editor.quickSuggestionsDelay": 0,
+    // I don't recommend indentRainbow, but if you have it I recommend this:
+    "indentRainbow.colors": [
+        "rgba(25,59,63,0.4)",
+        "rgba(25,44,63,0.4)",
+        "rgba(25,25,63,0.4)",
+        "rgba(44,25,63,0.4)",
+        "rgba(63,25,63,0.4)",
+        "rgba(63,25,44,0.4)",
+        "rgba(63,44,25,0.4)",
+        "rgba(63,63,25,0.4)",
+        "rgba(25,63,44,0.4)",
+    ],
+    "indentRainbow.errorColor": "rgba(128,32,32,0.0)",
+}
