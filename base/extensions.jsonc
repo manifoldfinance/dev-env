@@ -17,6 +17,8 @@
         "dendron.dendron",
         "metaseed.metago",
         // Color Theme
-        "peaceshi.syntax-highlight"
+        "peaceshi.syntax-highlight",
+        // move cursor and select contents between lines with the same indents.
+        "aPinix.indent-jump"
     ]
 }
