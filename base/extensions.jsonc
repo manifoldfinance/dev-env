@@ -19,6 +19,8 @@
         // Color Theme
         "peaceshi.syntax-highlight",
         // move cursor and select contents between lines with the same indents.
-        "aPinix.indent-jump"
+        "aPinix.indent-jump",
+        //  provides refactoring tools for your React codebase
+       "wix.glean"
     ]
 }
